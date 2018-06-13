@@ -1,0 +1,20 @@
+name: episode_downloader
+description: Episode downloader demo
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  path_provider:
+  scoped_model:
+  flutter_downloader:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+
